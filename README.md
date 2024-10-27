@@ -312,7 +312,7 @@ body {
 <body>
 
     <audio class="song" loop autoplay>
-        <source src="C:/Users/kusni/Music/MUSIC/PUNYA TIKA/HAPPY BIRTHDAY INSTRUMENTAL.mp3">
+        <source src="HAPPY BIRTHDAY INSTRUMENTAL.mp3">
         </source>
         Mau pake musik atau engga nieh??
     </audio>
@@ -359,7 +359,7 @@ body {
         </div>
 
         <div class="six">
-            <img src="C:/Users/kusni/Music/MUSIC/PUNYA TIKA/VITATIKA.JPG" alt="profile" class="profile-picture" id="imagePath"/>
+            <img src="VITATIKA.JPG" alt="profile" class="profile-picture" id="imagePath"/>
             <img src="img/hat.svg" alt="hat" class="hat" />
             <div class="wish">
                 <h3 class="wish-hbd">Happy Birthday!</h3>
