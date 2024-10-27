@@ -335,7 +335,7 @@ body {
                 <p class="hbd-chatbox">
                 Happy birthday to youu!! Di ultah kamu kali ini, ku doakan semoga apa yang kamu usahakan akan segera terwujud. Semoga tuhan mempermudah jalanmu dan semoga kamu selalu dikelilingi oleh orang orang yang menyayangimu. I'm proud of you, kedepannya mari pergi ke tempat yang bagus, mari bersama dengan waktu yang lama. I'm always with you!!
                 </p>
-                <p class="fake-btn">kirim ke adek paji</p>
+                <p class="fake-btn">kirim</p>
             </div>
         </div>
 
